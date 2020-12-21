@@ -1,0 +1,2 @@
+start.html: head.html, index.html, footer.html
+two.html: head.html, nav.html, two.html, footer.html
