@@ -1,2 +1,2 @@
-start.html: head.html, index.html, footer.html
-two.html: head.html, nav.html, two.html, footer.html
+/output/start.html: head.html, index.html, footer.html
+/output/article1.html: head.html, nav.html, article1.html, footer.html
